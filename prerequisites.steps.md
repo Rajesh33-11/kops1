@@ -7,3 +7,9 @@ chmod +x install-kops-prerequisites.sh
 ```
 ./install-kops-prerequisites.sh
 ```
+```
+aws --version
+terraform --version
+kops version
+kubectl version --client
+```
