@@ -3,7 +3,7 @@
 
 cluster_name         = "mycluster.k8s.local"
 region               = "ap-south-1"
-state_bucket_name    = "my-kops-state-store-2024"   # ← unique పేరు పెట్టండి
+state_bucket_name    = "my-kops-state-Rajesh"   # ← unique పేరు పెట్టండి
 master_instance_type = "c7i-flex.large"
 node_instance_type   = "t3.micro"
 node_count           = 2
